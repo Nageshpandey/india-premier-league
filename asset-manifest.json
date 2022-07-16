@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/india-premier-league/static/css/main.2301845d.css",
+    "main.js": "/india-premier-league/static/js/main.cecee5a4.js",
+    "static/media/about.png": "/india-premier-league/static/media/about.607314f01c45b0756e53.png",
+    "static/media/Spinner.gif": "/india-premier-league/static/media/Spinner.8591a7c8caed96c449a7.gif",
+    "index.html": "/india-premier-league/index.html",
+    "main.2301845d.css.map": "/india-premier-league/static/css/main.2301845d.css.map",
+    "main.cecee5a4.js.map": "/india-premier-league/static/js/main.cecee5a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2301845d.css",
+    "static/js/main.cecee5a4.js"
+  ]
+}
