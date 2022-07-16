@@ -1,0 +1,20 @@
+.tableCont {
+  margin: 50px;
+}
+th {
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
