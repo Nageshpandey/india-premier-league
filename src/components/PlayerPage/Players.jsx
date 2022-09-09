@@ -49,6 +49,7 @@ const Players = (props) => {
                 matches={data.matches}
                 runs={data.run}
                 wickets={data.wickets}
+                age= {data.age}
               />
             );
           }
