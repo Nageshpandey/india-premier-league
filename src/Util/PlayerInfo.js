@@ -11,6 +11,7 @@ const teamPlayer = {
         wickets: "50",
         run: "1963",
         matches: "107",
+        age:28,
       },
       {
         id: "GT02",
